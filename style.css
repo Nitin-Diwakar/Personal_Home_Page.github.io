@@ -1,0 +1,44 @@
+body{
+    text-align: justify;
+    background-color:rgb(240, 240, 240);
+    margin: 0 7px 0 5px;
+}
+h1{
+    color: #1800ff;
+    text-transform: uppercase;
+    font-family: Verdana,sans-serif;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+span{
+    color:#c09300;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:#c09300;
+    text-decoration: underline;
+}
+p{
+    font-size: 20px;
+    font-family: Geogia,serif;
+}
+hr{
+    color: #666;
+    height: 2px;
+    background-color: #666;
+}
+ul{
+    list-style-type: circle;
+    
+}
+footer p{
+    padding: 0px;
+    margin: 0px;
+}
